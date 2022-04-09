@@ -1,0 +1,22 @@
+{
+  "name": "polymorphism-loader",
+  "version": "0.0.1",
+  "description": "A polymorphism loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengwb1991/polymorphism-loader.git"
+  },
+  "author": "dengwb1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengwb1991/polymorphism-loader/issues"
+  },
+  "homepage": "https://github.com/dengwb1991/polymorphism-loader#readme",
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
